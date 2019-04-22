@@ -45,7 +45,7 @@ html, body {
 
 .page-content {
    margin-left: 200px;
-   margin-right: 1090px;
+   margin-right: 200px;
 }
 
 
@@ -91,5 +91,10 @@ h2 {
       .page-nav ul li:hover {
         left: 4px;
       }
+	  
+img {
+	float: right;
+    margin-left: 50px;
+  }	
 
       
