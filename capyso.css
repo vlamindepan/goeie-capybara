@@ -72,6 +72,8 @@ h2 {
 
 
 .page-nav {
+	position: fixed;
+	padding-left: 700px;
  
 }
 
